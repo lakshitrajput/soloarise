@@ -9,10 +9,10 @@
 Creating a gamified fitness application that uses motivational systems and ML-based activity verification to promote consistent healthy habits. 
   
 ## Demo Video Link:
-  <a href="https://drive.google.com/file/d/1G_-T0nHKNVgls5wKwUAD1jJKm5q6dULh/view?usp=drive_link">[https://drive.google.com/file/d/1G_-T0nHKNVgls5wKwUAD1jJKm5q6dULh/view?usp=drive_link)</a>
+  <a href="https://youtu.be/XkiVMOlz8Qc">https://youtu.be/XkiVMOlz8Qc</a>
   
 ## Presentation Link:
-  <a href="https://drive.google.com/file/d/1D64OiuwASSB_pZf_1dhpXtvJOdOZ4bSZ/view?usp=sharing">[https://drive.google.com/file/d/1D64OiuwASSB_pZf_1dhpXtvJOdOZ4bSZ/view?usp=sharing)</a>
+  <a href="https://drive.google.com/file/d/1D64OiuwASSB_pZf_1dhpXtvJOdOZ4bSZ/view?usp=sharing">https://drive.google.com/file/d/1D64OiuwASSB_pZf_1dhpXtvJOdOZ4bSZ/view?usp=sharing</a>
 
 ## Live Link
 https://soloarise-meta.vercel.app
